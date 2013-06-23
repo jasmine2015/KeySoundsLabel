@@ -1,0 +1,191 @@
+[快传/度盘永久][Key Sounds Label合集EAC][KSLA-0001~0091 KSLC-0001~0012 KSLV-0001~0003 &其他][96CD+8ISO+1MKV+6CD][49.1G]
+
+2013.05.20 更新，增加KSLA-0089
+2013.05.10 更新，根据回帖，增加KSLA-0076的Booklet。
+
+注：
+截至2013/5/20，帖子中[color=red][b]KSLA-0041、KSLC-0009仍为mp3格式； KSLA-0072无对应作品[/b][/color]
+其实求上述作品的EAC才是本贴的[color=red][b]最终目的[/b][/color]（无误）
+
+
+==================前言==================
+[img]http://key.soundslabel.com/image/ksl_banner.jpg[/img]
+关于Key Sounds Label及其资源的介绍，lz真的不想说太多，具体的介绍就请直接查看[url=http://key.soundslabel.com/]官网[/url]、各种wiki和各种百科。
+
+简单的一句话，KSL就是与Key社出品的游戏、动画相关的官方性质的音乐专辑，以及Key社成员及其友人创作、改编的音乐专辑。其作品番号以KSLA、KSLC、KSLV打头。
+
+KSL主要包含了Kanon、Air、CLANNAD、星之梦、智代After、Little Busters、Little Busters EX、Angel Beats、Kud Wafter、Rewrite、Rewrite Harvest festa!等相关的音乐，但也包含了个别与这些作品无关的音乐专辑。
+
+KSL包含了许多种音乐类型，包括上述游戏和动画的OST（这部分最有名），remix, arrange, drama等等，可谓种类十分丰富。KSL也因此带动了各种同人的音乐制作（当然这些同人作品不属于KSL）。
+
+说实话，Key Sounds Label相关的资源算是比较常见，但同时也很繁杂，各类资源帖也有许多种。本人的收集持续了许多年，真的已经无法记录这些资源的原始抓轨发布者、分享者。可能有些原始资源是禁转的，但是几经流传后到我手中时，我已经无从知晓。如果有的话请联系我，我会将其删除。
+因此可以说，这个帖子完全是站在前辈们的肩膀上，靠着许多人的帮助才完成的，向你们致敬！
+
+
+==================关于帖子的资源格式的说明=================
+本人对帖子里所有的资源都进行了整理，统一了命名、格式和曲目信息，并重新打包。最终目标是不求完美，但求整洁。
+压缩包自带5%恢复记录，推荐使用Foobar2000直接播放压缩包，无需解压。利于资源的二次传播分享。
+
+这些资源主要特征是：
+1. 全部为flac格式，并在flac文件中直接内嵌了曲目信息和封面图片；另外提供了单独cue文件
+2. 曲目artist信息按以下优先级整理：vocal歌曲的artist为演唱者；游戏和动画的OST专辑中artist为作曲者；特定编曲者专辑的artist为编曲者； 其余为缺省Key Sounds Label
+3. Booklet文件夹内部图片文件名未做统一命名
+4. 若专辑附带DVD或者其他光盘，则一并放入压缩包
+5. 约3/4的EAC含log，是否有log未在压缩包文件名进行标注。本人不强求log，但应该没有有损转无损的假档。
+6. 基本的文件名命名规则：[KSLA-XXXX][日期] 专辑标题 [flac+cue+bk+rr5].rar
+以Rewrite OST为例，Foobar2000播放信息以及压缩包结构如下：
+[img]http://i1283.photobucket.com/albums/a554/jasmine_2015/kslplayer_zps24935de2.png[/img]
+
+
+==================KSLA-0001~0091 & KSLC-0001~0012=================
+说明：
+1. 有2张CD未发现无损，文件名加标[mp3]，他们是：KSLA-0041（黑胶唱片）和KSLC-0009。（顺便一提，KSLA-0022也是黑胶）
+2. KSLA-0072信息未公布，无此CD，猜测原因是下述第4、5条造成
+3. 某些CD的Booklet不够清晰或不够详尽，压缩包文件名未标注+bk，[color=red]~求资源~[/color] 它们是：KSLA-0001,KSLA-0016~0017,KSLA-0018,KSLA-0042,KSLA-0047,KSLA-0048,KSLA-0077,KSLA-0078,KSLA-0079,KSLC-0001,KSLC-0002,KSLC-0004~0005,KSLC-0009
+4. 某些CD附带DVD光盘，压缩包文件名加入+dvdiso，他们是：KSLA-0053~0054,KSLA-0065,KSLA-0071,KSLA-0087~0088,KSLC-0004~0005
+5. 某些CD的初回版和普通版分别占用一个番号，因此不妨把初回附送的DVD光盘当作是普通版占用的番号对应的光盘，他们是：KSLA-0053~0054,KSLA-0087~0088（参考上一条说明）
+6. 某些CD是/附带普通光盘，压缩包文件名加入+iso，iso里面是mp3或mpg文件，他们是：KSLC-0006,KSLC-0008,KSLC-0010
+
+列表：
+[KSLA-0001][010810] WORK-S ／ Humanity [flac+cue+rr5].rar
+[KSLA-0002][010810] Key+Lia Natukage／nostalgia [flac+cue+bk+rr5].rar
+[KSLA-0003][011229] Kanon arrange best album 'recollections' [flac+cue+bk+rr5].rar
+[KSLA-0004~0005][020927] AIR Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0006][021025] Kanon Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0007][021228] Key+Lia Birthday Song,Requiem [flac+cue+bk+rr5].rar
+[KSLA-0008][030815] Key+Lia Spica／Hanabi／Moon [flac+cue+bk+rr5].rar
+[KSLA-0009][031228] CLANNAD Image Vocal Album - ソララド [flac+cue+bk+rr5].rar
+[KSLA-0010][031228] Kanon·Air Piano Arrange Album 'Re-feel' [flac+cue+bk+rr5].rar
+[KSLA-0011][040428]CLANNAD arrange album 'MABINOGI' [flac+cue+bk+rr5].rar
+[KSLA-0012~0014][040813] CLANNAD Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0015][041228] CLANNAD Image Vocal Album - ソララドアペンド [flac+cue+bk+rr5].rar
+[KSLA-0016~0017][041228] CLANNAD remix album 'memento' [flac+cue+rr5].rar
+[KSLA-0018][050812] KEY Compilation Mini Album 'Ma-Na' [flac+cue+rr5].rar
+[KSLA-0019][050831] Love Song [flac+cue+bk+rr5].rar
+[KSLA-0020][051125] 智代アフター Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0021][051229] CLANNAD／Tomoyo After Piano Arrange Album 'ピアノの森' [flac+cue+bk+rr5].rar
+[KSLA-0022][060503] AIR Analogue Collector's Edition '鳥の詩／Farewell song' [flac+cue+bk+rr5].rar
+[KSLA-0023~0024][060623] OTSU Club Music Compilation Vol.1 [flac+cue+bk+rr5].rar
+[KSLA-0025][060811] planetarian Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0026][061228] Last regrets／風の辿り着く場所 [flac+cue+bk+rr5].rar
+[KSLA-0027][070525] planetarian Drama CD 第一章 '雪圏球' [flac+cue+bk+rr5].rar
+[KSLA-0028][070525] Little Busters! [flac+cue+bk+rr5].rar
+[KSLA-0029][070727] planetarian Drama CD 第二章 'エルサレム' [flac+cue+bk+rr5].rar
+[KSLA-0030~0031][070727] planetarian Drama CD 最終章 '星の人' [flac+cue+bk+rr5].rar
+[KSLA-0032][070727] semicrystalline.Little Busters! original arrange album. [flac+cue+bk+rr5].rar
+[KSLA-0033~0035][070928] Little Busters! Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0036][071026] メグメル／だんご大家族 [flac+cue+bk+rr5].rar
+[KSLA-0037][071229] Little Busters! Arrange Album 'Rockstar Busters!' [flac+cue+bk+rr5].rar
+[KSLA-0038][071229] Little Busters! Character Song '鈴の密かな恋の唄／Mission： Love sniper' [flac+cue+bk+rr5].rar
+[KSLA-0039~0040][080229] OTSU Club Music Compilation Vol.2 [flac+cue+bk+rr5].rar
+[KSLA-0041][080504][color=red][b][MP3][/b][/color] Little Busters! Analog Collector's Edition [mp3+bk+rr5].rar
+[KSLA-0042][080725] Little Busters!-EX Arrange Album 'ontology' [flac+cue+rr5].rar
+[KSLA-0043][080815] Little Busters! Ecstasy Tracks [flac+cue+bk+rr5].rar
+[KSLA-0044][081114] 時を刻む唄／TORCH [flac+cue+bk+rr5].rar
+[KSLA-0045~0046][081228] KSL Live World 2008 ~Way to the Little Busters! EX~ [flac+cue+bk+rr5].rar
+[KSLA-0047][090228] Little Busters! Character Song  '沙耶の眠れるレクイエム／Saya's Song' [flac+cue+rr5].rar
+[KSLA-0048][090228] OTSU：Blasterhead [flac+cue+rr5].rar
+[KSLA-0049][091229] Little Busters! Character Song 'raison／ピクルスをおいしくするつくりかた' [flac+cue+bk+rr5].rar
+[KSLA-0050][091229] Little Busters! Character Song '猫と硝子と円い月／Alicemagic' [flac+cue+bk+rr5].rar
+[KSLA-0051][100423] Crow Song [flac+cue+bk+rr5].rar
+[KSLA-0052][100512] Thousand Enemies [flac+cue+bk+rr5].rar
+[KSLA-0053~0054][100526] My Soul,Your Beats!／Brave Song [flac+cue+bk+dvdiso+rr5].rar
+[KSLA-0055][100609] Little Braver [flac+cue+bk+rr5].rar
+[KSLA-0056][100423] Kud Wafter Opening Theme 'one's future' [flac+cue+bk+rr5].rar
+[KSLA-0057][100625] Kud Wafter Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0058][100630] Keep The Beats! [flac+cue+bk+rr5].rar
+[KSLA-0059~0060][100728] Angel Beats! Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0061~0063][101224] KSL Live World 2010 ～Way to the kud Wafter～ [flac+cue+bk+rr5].rar
+[KSLA-0064][101208] Last Song [flac+cue+bk+rr5].rar
+[KSLA-0065][101208] 一番の宝物 ～Yui final ver.～ [flac+cue+bk+dvdiso+rr5].rar
+[KSLA-0066][101229] Albina ~Assorted kudwaf Songs~ [flac+cue+bk+rr5].rar
+[KSLA-0067][110128] Rewrite Opening Theme song 'Philosophyz' [flac+cue+bk+rr5].rar
+[KSLA-0068][110527] Deejay Busters! [flac+cue+bk+rr5].rar
+[KSLA-0069][110527] Rewrite 2nd Opening Theme song 'Rewrite' [flac+cue+bk+rr5].rar
+[KSLA-0070][110624] Rewrite Arrange Album 'Soil' [flac+cue+bk+rr5].rar
+[KSLA-0071][110624] Key+Lia Best 2001-2010 [flac+cue+bk+dvdiso+rr5].rar
+[color=red][b][KSLA-0072] 无此番号[/b][/color]
+[KSLA-0073~0075][110812] Rewrite Original SoundTrack [flac+cue+bk+rr5].rar
+[KSLA-0076][111229] Rewrite Arrangement Album 'Branch' [flac+cue+bk+rr5].rar
+[KSLA-0077][111229] Kud Wafter Original SoundTrack [flac+cue+rr5].rar
+[KSLA-0078][111229] Albina ~Assorted kudwaf Songs~ [flac+cue+rr5].rar
+[KSLA-0079][120525] Key+VOCALOID Best selection vol.1 [flac+cue+rr5].rar
+[KSLA-0080][120629] Orpheus ～君と奏でる明日へのうた～ [flac+cue+bk+rr5].rar
+[KSLA-0081][120727] Rewrite Harvest festa! Original SoundTrack “Feast” [flac+cue+bk+rr5].rar
+[KSLA-0082~0083][121024] circle of fifth [flac+cue+bk+rr5].rar
+[KSLA-0084][120729] KEYNOTE -Key Sounds Remix Album-／細井聡司 [flac+cue+bk+rr5].rar
+[KSLA-0085~0086][120729] Visual Art's 20th Anniversary Remixes [flac+cue+bk+rr5].rar
+[KSLA-0087~0088][121031] Little Busters!／Alicemagic～TV animation ver.～ [flac+cue+bk+dvdiso+rr5].rar
+[KSLA-0089][130426] Little Busters!／Kud Wafter Piano Arrange Album 'ripresa' [flac+cue+bk+rr5].rar
+[KSLA-0090][121229] Key CLASSIC [flac+cue+bk+rr5].rar
+[KSLA-0091][121229] Rewrite & Rewrite Harvest festa! Arrange Album 'dye mixture' [flac+cue+bk+rr5].rar
+
+[KSLC-0001~0002][080510] KSL LIVE WORLD 2008 Pamphlet and Memorial CD [flac+cue+rr5].rar
+[KSLC-0003][081228] 時を刻む唄／TORCH -Piano Arrange Disc- [flac+cue+bk+rr5].rar
+[KSLC-0004~0005][090228] Key 10th MEMORIAL FES Anniversary CD [flac+cue+dvdiso+rr5].rar
+[KSLC-0006~0007][090228] Keyらじ Vol.1 [iso+flac+bk+rr5].rar
+[KSLC-0008][100521] KSL Live World 2010 Pamphlet Music Disc [flac+cue+bk+iso+rr5].rar
+[KSLC-0009][100802][color=red][b][MP3][/b][/color] Girls Dead Monster Starring LiSA Tour 2010 ライブパンフレット [mp3+rr5].rar
+[KSLC-0010~0011][110729] Keyらじ Vol.2 [iso+flac+bk+rr5].rar
+[KSLC-0012][120729] 幸せになる番 [flac+cue+bk+rr5].rar
+
+
+==================KSLV-0001~0003=================
+说明：
+1. KSLV-0001~0003是蓝光和DVD的BOX合集，一共三张碟片。其中第一张为蓝光，后两张为DVD，视频都一样（当然画质差别很大）。盒子信息请查看[url=http://key.visualarts.gr.jp/lisa_livedvd/top.html]官网[/url]
+2. 下面的flac版本是我从BDMV抽取出的原始音频轨转换而来，可以当成live版音乐CD来听，[b]官方并未单独有此音乐CD（没必要）[/b]。
+3. 下面的mkv版本(大小10G)是蓝光光盘的BDrip版，其中的视频轨来自[url=http://www.nyaa.eu/?page=view&tid=220792]他人压制的1080p视频[/url]，主音频轨和评论音轨是我从BDMV抽取后转为aac的。（主音轨的无损版本就是那个flac，需要的话可以mkv外挂flac播放）
+
+列表：
+[KSLV-0001~0003][110601] Girls Dead Monster starring LiSA Tour 2010 Final -Keep The Angel Beats!- [flac+cue+bk+rr5].rar
+
+[KSLV-0001~0003][110601] Girls Dead Monster starring LiSA Tour 2010 Final -Keep The Angel Beats!- [mkv+rr5].part1.rar
+[KSLV-0001~0003][110601] Girls Dead Monster starring LiSA Tour 2010 Final -Keep The Angel Beats!- [mkv+rr5].part2.rar
+[KSLV-0001~0003][110601] Girls Dead Monster starring LiSA Tour 2010 Final -Keep The Angel Beats!- [mkv+rr5].part3.rar
+
+
+==================KSL 其他相关CD=================
+说明：
+这里列出的是一些和KSL关系密切的音频CD
+由于Key Sounds Label正式成立于2001年，因此下面前三个CD也被看作为KSL的前身。（有的资料误把前两张CD番号记为 KYCD-0101和KYCD-0202）
+1. WIC-6435是Kanon游戏初回版特典
+2. WIC-6526是C57单独发售的Kanon游戏的OPED音乐CD
+3. KYCD-0303是Air游戏初回版特典
+4. SVWC-7721是KSLA-0058的伴奏版，是动画Angel Beats中的歌曲
+5. VA-00112是游戏Rewrite 的两个初回特典CD之一，另一张特典是KSLA-0070。该系列作品请查看[url=http://www.onsen.ag/program/rewrite/index.html]官网[/url]
+6. VA-00144是游戏Rewrite Harvest festa!的两个初回特典CD之一，另一张特典是KSLA-0081。
+
+列表：
+[WIC-6435][990604] KANON original arrange album 'anemoscope' [flac+cue+rr5].rar
+[WIC-6526][991123] KANON Last regrets／風の辿り着く場所 [flac+cue+rr5].rar
+[KYCD-0303][000728] Ornithopter AIR Original Compilation Album [flac+cue+rr5].rar
+[SVWC-7721][100728] Girls Dead Monster Official Band Score 'Keep The Beats!' [flac+cue+bk+rr5].rar
+[VA-00112D][110624] Rewrite 初回特典 Radio CD [flac+cue+rr5].rar
+[VA-00144D][120727] Rewrite Harvest festa! 初回特典 Radio CD [flac+cue+rr5].rar
+
+
+==================校验档、批量自动重命名=================
+由于网盘下载，可能导致文件特殊字符不会显示，手动改文件名比较麻烦。
+某软件可以通过读取torrent文件，根据hash、文件大小等自动重命名，请到[url=http://bbs.9gal.com/read.php?tid=283339&fpage=0&toread=&page=1]该帖子[/url]下载所需要的工具软件。
+我这里也就顺便提供本帖资源[url=http://sdrv.ms/YUCyVm]对应的torrent文件[/url]，用来通过上面工具进行自动重命名。我不会用此torrent去做种上传，但别人说不定会利用该torrent做种二次分享呀。
+
+[url=http://sdrv.ms/14J5wrX]MD5校验文件[/url]也一并提供。压缩包含5%修复记录，如有问题请自行修复。
+
+
+==================原创证明==================
+网盘的资源里中有里含本人id的文件，附截图。 压缩包内部不含该证明文件。
+[img]http://i1283.photobucket.com/albums/a554/jasmine_2015/proof_zpsabbc7cdd.jpg[/img]
+
+
+==================下载地址==================
+度盘不主动删档，理论永久。
+x雷快传20天，只要我记得就会续期。[删]不过我经常会忘，有没有药可以治自动续期？[/删]
+
+The download link is hidden in GitHub
+
+
+============================================
+转载请保留原贴link和帖内所有信息，不得直接公开网盘下载链接。所有资源、信息不得用于商业和盈利行为。感谢资源提供者和分享者的无私奉献。
+Please DO NOT directly share the download link to public. All the resources are not for commercial usage. Great appreciation for those who providing and sharing such great music.
+
+
